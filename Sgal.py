@@ -1,10 +1,11 @@
 '''
-人類圖
- - 類型(Type)
-    - 策略
-    - 非自己主題
+人類圖(內容的部分)
+V- 類型(Type)
+   V- 策略
+   V- 非自己主題
+V- 九大中心
  - 人生腳色(Profile)
- - 定義(Definition)
+V- 定義(Definition)(幾分人)
  - 內在權威(Inner authority)
     - 情緒型(Emotional-Solar Plexus)
     - 薦骨型(Sacral)
@@ -15,4 +16,16 @@
  - 通道(Channel)*36
  - 閘門(Gate)*64
  - 輪迴交叉(Incarnation Cross)
+'''
+
+#現在就是要有重複執行的方法
+#但我不知道該怎麼辦
+#0.0
+A,B,C,D,E,F,G,H,I=list(map,input(),sep=',')
+print(F)
+'''
+if 599=='A' or 'B' or 'C' or 'D' or 'E' or 'F' or 'G' or 'H' or 'I':
+	print(565)
+else:
+	print(55)
 '''
